@@ -24,7 +24,7 @@
 
 # About Us
 
-DevsInTech is a thriving and welcoming community of developers,tech professionals,and enthusiasts who share a common passion for technology. Our mission is to promote diversity and inclusiveness in the open source community by helping individuals with improving their skills and standing out in the tech space.
+DevsInTech is a thriving and welcoming community of developers,tech professionals,and enthusiasts who share a common passion for technology. Our mission is to promote diversity and inclusiveness in the open source community by helping individuals with improving their skills and standing out in the tech space. my name is sagar
 
 ## What do we provide?✨
 
